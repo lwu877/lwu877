@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lwu877
 - 👀 I’m interested in doing stuff on the internet
 - 🌱 I’m currently learning my way around
-- 📫 How to reach me: lwu877@contact.lwumedia.website
+- 📫 How to reach me: mailto:lexw@curtainlorimer.com
 
 <!---
 lwu877/lwu877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
