@@ -3,6 +3,7 @@
 I'm a musician that does too much stuff.
 
 - 👀 I’m trying new things all the time - it's just that sometimes, my existing stuff takes priority
+- I'm well-versed in writing documentation and making pretty little interfaces. Coding, on the other hand? Maybe not...
 -  📫 How to reach me: [email me](mailto:lex@lexwu.com)
 
 <!---
