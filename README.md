@@ -1,7 +1,9 @@
-**👋 Hi, I’m @lwu877**
-* 👀 I’m interested in doing stuff on the internet
-* 🌱 I’m currently learning my way around
-* 📫 How to reach me: [email me](mailto:lex@lexwu.com)
+## 👋 Hi, I’m @lwu877
+
+I'm a musician that does too much stuff.
+
+- 👀 I’m trying new things all the time - it's just that sometimes, my existing stuff takes priority
+-  📫 How to reach me: [email me](mailto:lex@lexwu.com)
 
 <!---
 lwu877/lwu877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
