@@ -8,4 +8,9 @@ I'm a musician that does too much stuff.
 -  📫 How to reach me: [email me](mailto:lex@lexwu.com)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
