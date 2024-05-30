@@ -6,3 +6,6 @@ I'm a musician that does too much stuff.
 - 👀 I’m trying new things all the time - it's just that sometimes, my existing stuff takes priority
 - I work primarily with front-end stuff - think websites, widgets, and little toys.
 -  📫 How to reach me: [email me](mailto:lex@lexwu.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
