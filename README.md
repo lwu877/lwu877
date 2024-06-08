@@ -10,8 +10,7 @@ I'm a musician that does too much stuff.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   36 mins         ████████████████████████▒   96.76 %
-HTML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
