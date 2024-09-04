@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @lwu877
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q0ct9gnvb3ji1vmcf2oevqkr2&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=190b2c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=q0ct9gnvb3ji1vmcf2oevqkr2&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q0ct9gnvb3ji1vmcf2oevqkr2&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=q0ct9gnvb3ji1vmcf2oevqkr2&redirect=true)
 I'm a musician that does too much stuff.
 
 - 👀 I’m trying new things all the time - it's just that sometimes, my existing stuff takes priority
