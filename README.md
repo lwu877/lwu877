@@ -8,6 +8,8 @@ I'm a musician that does too much stuff.
 - I work primarily with front-end stuff - think websites, widgets, and little toys.
 -  📫 How to reach me: [email me](mailto:lex@lexwu.com)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q317Z7X7)
+
 <!--START_SECTION:waka-->
 
 ```txt
