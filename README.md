@@ -14,9 +14,8 @@ The most average musician/coder/journalist you've ever seen.
 - The Murder at Evansmith Manor (a musical two years in the making - currently rewriting)
 - Clark Coates and the Suspicious Slate (a little game project - currently writing)
 - More stuff that I'd love to talk about, just haven't done enough to warrant talking about
-- 
+
 ### Reaching Out
-(touching me, touching you)
 - Find me on most platforms @lwu877
 -  📫 [Email me, I'm chill](mailto:lex@lexwu.com)
 
