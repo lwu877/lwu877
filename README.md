@@ -9,8 +9,9 @@ The most average musician/coder/journalist you've ever seen.
 
 ### My Current Projects
 - Music work (at [lwumusic.com](https://lwumusic.com))
-  - Time releases November 24th
-  - The [] and the [] releases December 18th
+  - The Pirate and the Fiddle [out now!](https://lwumusic.com/listen)
+  - Time - also [out now!](https://lwumusic.com/listen)
+- Here's a Minute - season 2 now confirmed, currently writing and prepping for release in June
 - The Murder at Evansmith Manor (a musical two years in the making - currently rewriting)
 - Clark Coates and the Suspicious Slate (a little game project - currently writing)
 - More stuff that I'd love to talk about, just haven't done enough to warrant talking about
